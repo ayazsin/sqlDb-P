@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: junit:junit:4.11">
+    <archive path="/Users/ayse/.m2/repository/junit/junit/4.11/junit-4.11.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="/Users/ayse/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.27">
+    <archive path="/Users/ayse/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.11.4">
+    <archive path="/Users/ayse/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar" />
+  </library>
+</eclipse-userlibraries>
+
